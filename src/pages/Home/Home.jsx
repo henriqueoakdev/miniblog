@@ -2,7 +2,7 @@
 import styles from "./Home.module.css";
 
 //hooks
-import { Link, Navigate, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useFetchDocuments } from "../../hooks/useFetchDocuments";
 
